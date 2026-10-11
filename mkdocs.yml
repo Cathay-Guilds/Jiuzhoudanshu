@@ -1,15 +1,15 @@
-site_name: 元始道藏
-repo_name: 元始道藏
-repo_url: https://github.com/Daojia-9999/YuanshiDaozang
+site_name: 九州丹書
+repo_name: 九州丹書
+repo_url: https://github.com/Cathay-Guilds/Jiuzhoudanshu
 copyright: Copyright &copy; 2023 - Never 玄微散人
 
 theme:
   name: material # 設置主題名字
   language: zh-TW # 設置語言
-  
+
   direction: ltr # 設置閲讀方向，這是從左往右
 
-  icon: 
+  icon:
     logo: material/book # 設置logo
     repo: fontawesome/brands/github
 
@@ -25,13 +25,12 @@ theme:
     - search.share # 搜索共享
     - header.autohide # 自動隱藏頁眉
     - navigation.footer # 設置頁脚
-  
-  palette: 
 
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -41,7 +40,7 @@ theme:
         name: Switch to light mode
 
 extra:
-  homepage: https://chendaojun.github.io/mkdocs-daozang/
+  homepage: https://github.com/Cathay-Guilds/Jiuzhoudanshu
 
   analytics:
     provider: google
